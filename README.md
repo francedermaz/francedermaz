@@ -1,12 +1,12 @@
 ## Hey 👋, I'm Francisco Cedermaz!
 <a href='https://www.linkedin.com/in/francedermaz/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/francedermaz/'><img align='left' alt="github" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" height='18px'/></a>
-
-I am a versatilist and easily adapt to different hats (Full Stack Engineer 🌐, Mobile Engineer 📱 or beginner Game Developer 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+I’m a versatilist and easily adapt to different hats (Full Stack Engineer 🌐, Mobile Engineer 📱 or beginner Game Developer 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f56d629403431.56bf41038c8b0.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
